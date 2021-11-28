@@ -11,8 +11,10 @@ function App() {
         </div>
       </div>
       <footer className="footer">
-        This project was coded by Roberta Obilie and is open-sourced on Github
-        and hosted on Netlify
+        This project was coded by Roberta Obilie and is open-sourced on{" "}
+        <a href="https://github.com/robilie/dictionary-project.git">Github</a>{" "}
+        and hosted on{" "}
+        <a href="https://compassionate-ritchie-5a8645.netlify.app">Netlify</a>
       </footer>
     </div>
   );
