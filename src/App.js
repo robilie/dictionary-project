@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <div className="background">
+      <div className="background container">
         Hello
         <div className="dictionary-box">
           I will contain the dictionary information
