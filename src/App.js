@@ -12,9 +12,21 @@ function App() {
       </div>
       <footer className="footer">
         This project was coded by Roberta Obilie and is open-sourced on{" "}
-        <a href="https://github.com/robilie/dictionary-project.git">Github</a>{" "}
+        <a
+          href="https://github.com/robilie/dictionary-project.git"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Github
+        </a>{" "}
         and hosted on{" "}
-        <a href="https://compassionate-ritchie-5a8645.netlify.app">Netlify</a>
+        <a
+          href="https://compassionate-ritchie-5a8645.netlify.app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Netlify
+        </a>
       </footer>
     </div>
   );
