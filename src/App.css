@@ -1,27 +1,15 @@
 .App .background {
-  text-align: center;
   max-width: 600px;
   margin: 30px auto 10px;
-  border: 5px solid #f5c76e;
+  border: 5px solid #132819;
   border-radius: 10px;
-  background-image: url("./images/dictionary-big.jpg");
+  background-image: url("./images/color-books.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  padding: 30px;
 }
 
 .App footer {
   font-size: 11px;
   text-align: center;
-}
-
-.App .dictionary-box {
-  text-align: center;
-  background-color: rgba(255, 255, 255, 0.2);
-  border-radius: 16px;
-  color: white;
-  padding: 15px 25px;
-  display: block;
-  max-width: fit-content;
-  max-height: fit-content;
-  margin: 20px auto;
 }

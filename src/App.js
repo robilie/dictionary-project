@@ -7,9 +7,6 @@ function App() {
     <div className="App">
       <div className="background container">
         <Dictionary />
-        <div className="dictionary-box">
-          I will contain the dictionary information
-        </div>
       </div>
       <footer className="footer">
         This project was coded by Roberta Obilie and is open-sourced on{" "}

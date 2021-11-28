@@ -1,0 +1,11 @@
+.Results {
+  text-align: left;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  color: white;
+  padding: 15px 25px;
+  display: block;
+  max-width: fit-content;
+  max-height: fit-content;
+  margin: 20px auto;
+}
