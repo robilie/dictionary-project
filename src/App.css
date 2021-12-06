@@ -1,9 +1,13 @@
+.App {
+  margin: 40px;
+}
+
 .App .background {
   max-width: 600px;
   margin: 30px auto 10px;
   border: 5px solid #132819;
   border-radius: 10px;
-  background-image: url("./images/color-books.jpg");
+  background-image: url("./images/color-books.png");
   background-size: cover;
   background-repeat: no-repeat;
   padding: 30px;
@@ -12,4 +16,10 @@
 .App footer {
   font-size: 11px;
   text-align: center;
+}
+
+.App-header,
+.App-header-2 {
+  text-align: center;
+  color: rgb(43, 40, 40);
 }

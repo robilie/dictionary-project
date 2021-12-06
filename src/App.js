@@ -5,8 +5,10 @@ import Dictionary from "./Dictionary";
 function App() {
   return (
     <div className="App">
+      <h1 className="App-header">Dictionary</h1>
+      <h2 className="App-header-2">What word would you like to search?</h2>
       <div className="background container">
-        <Dictionary />
+        <Dictionary defaultKeyword="sunset" />
       </div>
       <footer className="footer">
         This project was coded by Roberta Obilie and is open-sourced on{" "}

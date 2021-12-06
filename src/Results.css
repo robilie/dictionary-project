@@ -1,11 +1,16 @@
-.Results {
+.Results section {
   text-align: left;
   background-color: rgba(255, 255, 255, 0.5);
   border-radius: 16px;
   color: rgb(43, 40, 40);
   padding: 15px 25px;
   display: block;
-  max-width: fit-content;
-  max-height: fit-content;
+  max-width: 600px;
   margin: 20px auto;
+}
+
+.Results h2 {
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 1.5;
 }

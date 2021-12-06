@@ -1,0 +1,20 @@
+.Phonetics a {
+  border: 1px solid rgb(94, 68, 72);
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  transition: all 150ms ease-in-out;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(94, 68, 72);
+}
+
+.Phonetics a:hover {
+  background-color: rgb(179, 138, 144);
+  color: white;
+  border: 1px solid rgb(179, 138, 144);
+}
+
+.Phonetics p.text {
+  font-size: 22px;
+}
