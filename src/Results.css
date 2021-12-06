@@ -1,8 +1,8 @@
 .Results {
   text-align: left;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.5);
   border-radius: 16px;
-  color: white;
+  color: rgb(43, 40, 40);
   padding: 15px 25px;
   display: block;
   max-width: fit-content;
